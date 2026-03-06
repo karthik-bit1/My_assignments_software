@@ -1,5 +1,5 @@
 ---
-layout:pages
+layout: pages
 title: page created
 permalink: /index/
 ---
