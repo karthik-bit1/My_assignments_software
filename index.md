@@ -1,6 +1,8 @@
 ---
-Layout:pages
-Title: page created
-Permalink: /My_assignments_software/index/
+layout:pages
+title: page created
+permalink: /index/
 ---
-# Pages notepad 
+# Pages notepad:
+
+- i am karhtik
